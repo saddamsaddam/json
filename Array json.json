@@ -1,0 +1,31 @@
+[
+  {
+  "id":1,
+    "name":"jakir",
+    "title":"bangla"
+  }
+  ,
+   {
+  "id":2,
+    "name":"saddam hossen",
+    "title":"english"
+  }
+  ,
+   {
+  "id":3,
+    "name":"manik",
+    "title":"mathe"
+  }
+  ,
+   {
+  "id":4,
+    "name":"rubel",
+    "title":"chemistry"
+  }
+  ,
+   {
+  "id":5,
+    "name":"badsha",
+    "title":"physics"
+  }
+]
